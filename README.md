@@ -8,7 +8,12 @@
 <p align=center class="has-line-data" data-line-start="0" data-line-end="1"><img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=300&amp;section=footer&amp;text=Janghyeok%20Cho&amp;fontSize=90&amp;fontAlignY=65&amp;rotate=-4" alt="header"></p>
 <br />
 
-## Hi There 👋
+## Hi Guys! 👋
+I'm a web developer.<br />
+I like javascript-based code.<br />
+It's okay to look forward to something fun in the future.<br />
+
+<!-- instagram -->
 <a href="https://instagram.com/moolang2" target="_blank">
   <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b alt=instagram />
 </a>
@@ -29,7 +34,7 @@
 </ul>
 <br />
 
-## My Skil
+## Tech stack
 <!-- Badge -->
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
