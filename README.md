@@ -1,5 +1,5 @@
 <!-- Header capsule render -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=footer&text=Janghyeok%20Cho&fontSize=90&fontAlignY=65&rotate=-4)
+<p align=center class="has-line-data" data-line-start="0" data-line-end="1"><img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=300&amp;section=footer&amp;text=Janghyeok%20Cho&amp;fontSize=90&amp;fontAlignY=65&amp;rotate=-4" alt="header"></p>
 
 <br />
 <!-- GitHub Readme Stats -->
