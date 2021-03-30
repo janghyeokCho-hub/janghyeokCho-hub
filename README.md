@@ -5,7 +5,7 @@
 <br/>  
 
 <!-- Header capsule render -->
-<p align=center class="has-line-data" data-line-start="0" data-line-end="1"><img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=300&amp;section=footer&amp;text=Janghyeok%20Cho&amp;fontSize=90&amp;fontAlignY=65&amp;rotate=-4" alt="header"></p>
+<p align=center class="has-line-data" data-line-start="0" data-line-end="1"><img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=200&amp;section=footer&amp;text=Janghyeok%20Cho&amp;fontSize=50&amp;fontAlignY=65&amp;rotate=-4" alt="header"></p>
 <br />
 
 ## Hi Guys! 👋
@@ -36,7 +36,7 @@ It's okay to look forward to something fun in the future.<br />
 
 ## Tech stack
 <!-- Badge -->
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/php-777BB4?style=flat-square&logo=php&logoColor=white"/></a>&nbsp 
@@ -54,7 +54,7 @@ It's okay to look forward to something fun in the future.<br />
 
 ## Github Stats  
 <!-- GitHub Readme Stats -->
-<p align="center" class="has-line-data" data-line-start="0" data-line-end="1">
+<p align="left" class="has-line-data" data-line-start="0" data-line-end="1">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=janghyeokCho-hub&amp;show_icons=true&amp;theme=dracula" alt="Anurag's GitHub stats">
   </a>
