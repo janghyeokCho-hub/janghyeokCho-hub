@@ -10,6 +10,8 @@
 
 ## Hi Guys! 👋
 I'm a web developer.<br />
+I like javascript-based code.<br />
+It's okay to look forward to something fun in the future.<br />
 
 <!-- instagram -->
 <a href="https://instagram.com/moolang2" target="_blank">
