@@ -28,7 +28,7 @@ It's okay to look forward to something fun in the future.<br />
   </li>
   <li>
     <p>
-      <strong>October 2019 ~ </strong> - Smart farm software Researcher
+      <strong>October 2019 ~ </strong> - Smart farm software researcher
     </p>
   </li>
 </ul>
