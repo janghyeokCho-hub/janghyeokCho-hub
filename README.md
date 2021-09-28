@@ -11,12 +11,12 @@
 ## Hi Guys! 👋
 I'm a web developer.<br />
 
-<!-- instagram -->
+<!-- instagram 
 <a href="https://instagram.com/moolang2" target="_blank">
   <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b alt=instagram />
 </a>
 <br />
-
+-->
 ## Experience
 <ul>
   <li>
