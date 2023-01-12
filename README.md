@@ -47,12 +47,13 @@ I'm a web developer.<br />
 <br />
 
 ## Github Stats  
-<!-- GitHub Readme Stats -->
+<!-- GitHub Readme Stats
 <p align="left" class="has-line-data" data-line-start="0" data-line-end="1">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=janghyeokCho-hub&amp;show_icons=true&amp;theme=dracula" alt="Anurag's GitHub stats">
   </a>
 </p>
+ -->
 <br />
 <br />
 
