@@ -36,10 +36,13 @@ I'm a web developer.<br />
 <!-- Badge -->
 <p align="left">
   <img src="https://img.shields.io/badge/-ReactJs-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/-ReactNative-blue?style=flat-square&logo=react&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Typescript-blue?style=flat-square&logo=typescript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/-GraphQL-ff69b4?style=flat-square&logo=GraphQL&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Java-FF3333?style=flat-square&logo=java&logoColor=FF3333"/></a>&nbsp 
 </p>
 <br />
 
