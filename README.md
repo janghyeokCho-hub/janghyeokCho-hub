@@ -9,7 +9,7 @@
 <br />
 
 ## Hi Guys! 👋
-I'm a Front-end developer.<br />
+I'm a front-end developer.<br />
 
 <!-- instagram 
 <a href="https://instagram.com/moolang2" target="_blank">
