@@ -21,12 +21,24 @@ I'm a front-end developer.<br />
 <ul>
   <li>
     <p>
-      <strong>December 2017 ~ </strong> - Web developer
+      <strong>December 2021 ~ </strong>
+      <img src="https://img.shields.io/badge/-ReactJs-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>&nbsp 
+      <img src="https://img.shields.io/badge/-ReactNative-blue?style=flat-square&logo=react&logoColor=white"/></a>&nbsp
+      Front-end developer
     </p>
   </li>
   <li>
     <p>
-      <strong>October 2019 ~ </strong> - Smart farm software researcher
+      <strong>October 2019 ~ </strong>
+      <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>
+      Front-end developer
+    </p>
+  </li>
+  <li>
+    <p>
+      <strong>December 2017 ~ </strong>
+      <img src="https://img.shields.io/badge/Java-FF3333?style=flat-square&logo=java&logoColor=FF3333"/></a>&nbsp
+      Back-end developer
     </p>
   </li>
 </ul>
