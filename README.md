@@ -17,11 +17,11 @@ A developer who makes beautiful code.
 ## Tech
 
 ### Strong
-JS(ES5+) / Vue.js/ Vuex / React.js / Redux / HTML5 / CSS / Webpack / Functional Programming
+JS(ES5+) / React.js / Redux / Vue.js / Vuex / HTML5 / CSS / Webpack / Functional Programming
 <br />
 
 ### Knowledgeable
-Typescript / Node.js/ Express.js / Spring / Java / jQuery / Python / JSP
+Typescript / Node.js / Express.js / Spring / Java / jQuery / Python / JSP
 
 <br />
 
