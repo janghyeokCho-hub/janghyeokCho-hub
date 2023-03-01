@@ -10,62 +10,46 @@
 
 ## Hi Guys! 👋
 I'm a front-end developer.<br />
+A developer who makes beautiful code.
 
-<!-- instagram 
-<a href="https://instagram.com/moolang2" target="_blank">
-  <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b alt=instagram />
-</a>
 <br />
--->
+
+## Tech
+
+### Strong
+JS(ES5+) / Vue.js/ Vuex / React.js / Redux / HTML5 / CSS / Webpack / Functional Programming
+<br />
+
+### Knowledgeable
+Typescript / Node.js/ Express.js / Spring / Java / jQuery / Python / JSP
+
+<br />
+
 ## Experience
 <ul>
   <li>
     <p>
-      <strong>December 2021 ~ </strong>
-      <img src="https://img.shields.io/badge/-ReactJs-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>&nbsp 
-      <img src="https://img.shields.io/badge/-ReactNative-blue?style=flat-square&logo=react&logoColor=white"/></a>&nbsp
-      Front-end developer
-    </p>
-  </li>
-  <li>
-    <p>
       <strong>October 2019 ~ </strong>
-      <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>
       Front-end developer
     </p>
   </li>
   <li>
     <p>
       <strong>December 2017 ~ </strong>
-      <img src="https://img.shields.io/badge/Java-FF3333?style=flat-square&logo=java&logoColor=FF3333"/></a>&nbsp
       Back-end developer
     </p>
   </li>
 </ul>
+
 <br />
 
-## Tech stack
-<!-- Badge -->
-<p align="left">
-  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/-ReactNative-blue?style=flat-square&logo=react&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Typescript-blue?style=flat-square&logo=typescript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/-GraphQL-ff69b4?style=flat-square&logo=GraphQL&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Java-FF3333?style=flat-square&logo=java&logoColor=FF3333"/></a>&nbsp 
-</p>
-<br />
-<!-- 
 ## Github Stats  
+
 GitHub Readme Stats
 <p align="left" class="has-line-data" data-line-start="0" data-line-end="1">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=janghyeokCho-hub&amp;show_icons=true&amp;theme=dracula" alt="Anurag's GitHub stats">
   </a>
 </p>
- -->
-<br />
 <br />
 
